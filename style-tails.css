@@ -1,0 +1,29 @@
+/* style-tails.css */
+
+body {
+    background-color: #fffacd; /* Pale Yellow */
+    color: #000; /* Black */
+}
+
+header {
+    background-color: #ffd700; /* Gold */
+    color: #000; /* Black */
+}
+
+section {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+footer {
+    background-color: #ffd700; /* Gold */
+    color: #000; /* Black */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
