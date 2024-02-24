@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #ffd700; /* Gold */
+    background-color: #FFFFFF; 
     color: #000; /* Black */
 }
 
@@ -19,7 +19,7 @@ ul {
 }
 
 footer {
-    background-color: #ffd700; /* Gold */
+    background-color: #FFFFFF; 
     color: #000; /* Black */
     text-align: center;
     padding: 10px;
